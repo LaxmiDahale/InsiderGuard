@@ -38,7 +38,8 @@ streamlit run src/dashboard.py
 
 ## Screenshots
 
-Add dashboard screenshots here.
+<img width="1908" height="916" alt="image" src="https://github.com/user-attachments/assets/12b1bd4f-d1a7-4096-9a38-b58fa0120838" />
+
 
 ## Future Improvements
 
