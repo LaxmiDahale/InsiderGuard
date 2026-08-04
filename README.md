@@ -1,5 +1,4 @@
 # InsiderGuard
-![Uploading Screenshot 2026-08-04 230721.png…]()
 
 ## Overview
 
