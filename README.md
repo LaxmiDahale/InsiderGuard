@@ -39,8 +39,7 @@ streamlit run src/dashboard.py
 
 ## Screenshots
 
-<img width="1908" height="916" alt="image" src="https://github.com/user-attachments/assets/12b1bd4f-d1a7-4096-9a38-b58fa0120838" />
-
+<img width="1908" height="916" alt="insiderguard_soc_dashboard" src="https://github.com/user-attachments/assets/ba9c7e55-192c-454b-8672-cd0bb6dc6886" />
 
 ## Future Improvements
 
