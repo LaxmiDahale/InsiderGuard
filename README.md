@@ -1,4 +1,5 @@
 # InsiderGuard
+<img width="1907" height="917" alt="insiderguard_dashboard" src="https://github.com/user-attachments/assets/4a650a62-4bc0-4289-b366-fab91fd40d73" />
 
 ## Overview
 
